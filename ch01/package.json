@@ -13,5 +13,8 @@
     },
     "devDependencies": {
         "@types/inquirer": "^6.5.0"
+    },
+    "overrides": {
+        "lodash@<=4.18.1": "4.18.1"
     }
 }
